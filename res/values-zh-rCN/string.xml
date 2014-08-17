@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">五子棋</string>
+    <string name="title_activity_main">五子棋</string>
+    
+    <string name="PLAYER_HUMAN">玩家</string>
+    <string name="PLAYER_COMPUTER">电脑</string>
+    <string name="PLAYER_A">黑方</string>
+    <string name="PLAYER_B">白方</string>
+    
+    <string name="LABEL_TAKE_BACK">悔棋</string>
+    <string name="LABEL_QUIT">退出游戏</string>
+    <string name="LABEL_OK">好的</string>
+    <string name="LABEL_YES">是</string>
+    <string name="LABEL_NO">否</string>
+    <string name="LABEL_EXIT">退出</string>
+    <string name="LABEL_CANCEL">取消</string>
+    <string name="LABEL_NEW_GAME">新对局</string>
+    <string name="LABEL_GIVE_UP">认输</string>
+    <string name="LABEL_HINT">提示</string>
+    <string name="LABEL_SETTING">设置</string>
+    
+    <string name="TITLE_ABOUT">关于五子棋</string>
+    <string name="TITLE_WIN">您赢了</string>
+    <string name="TITLE_DRAW">和棋</string>
+    <string name="TITLE_LOSE">您输了</string>
+    <string name="TITLE_RESTART">新对局</string>
+    <string name="TITLE_EXIT_CONFIRM">退出</string>
+    <string name="TITLE_GIVE_UP">认输</string>
+    <string name="TITLE_SETTING">设置</string>
+    <string name="TITLE_WIN_VS_HUMAN">胜</string>
+    
+    <string name="SETTING_PLAYER_FIRST">玩家先行:</string>
+    <string name="SETTING_ENABLE_HINT">启用提示:</string>
+    <string name="SETTING_ENABLE_BAN">启用禁手:</string>
+    <string name="SETTING_SELECT_MODE">选择模式:</string>
+    <string name="MODE_VS_COMPUTER">人机对战</string>
+    <string name="MODE_VS_HUMAN">双人对战</string>
+    <string name="MODE_INVESTIGATION">棋路推演</string>
+    
+    <string name="MSG_YOU_WIN">恭喜您!你真聪明!</string>
+    <string name="MSG_DRAW">和棋.</string>
+    <string name="MSG_YOU_LOSE">很遗憾,您输了.请再接再厉.</string>
+    <string name="MSG_ALERT_RESTART">您确定要重新开局吗?</string>
+    <string name="MSG_ALERT_GIVE_UP">您确定要认输并且重新开始吗?</string>
+    <string name="MSG_ALERT_EXIT">您确定要退出吗?</string>
+    <string name="MSG_SETTING_SAVED">您的设置已经被保存.\n它们将会在下一盘新对局中生效.</string>
+    <string name="MSG_BAN_LONG">黑方: 长连禁手负.</string>
+    <string name="MSG_BAN_FOURS">黑方: 四四禁手负.</string>
+    <string name="MSG_BAN_THREES">黑方: 三三禁手负.</string>
+    
+    <string name="MSG_HELP_NEW_GAME">开始新对局。</string>
+    <string name="MSG_HELP_UNDO">上一步走错了？点击它就好。</string>
+    <string name="MSG_HELP_HINT">下一步怎么走呢？ 我来帮您。</string>
+    <string name="MSG_HELP_SETTING">换个设置？别忘了保存后点击“新对局”。不然的话，嘿嘿。</string>
+    <string name="MSG_ABOUT">一个五子棋小游戏。具有简单的AI及黑棋禁手判断。</string>
+    <string name="MSG_COPYRIGHT">Copyright©2012</string>
+    <string name="MSG_AUTHOR">Erich Wang</string>
+    <string name="MSG_AUTHOT_CONTRACT">erichwang1986@163.com</string>
+
+</resources>

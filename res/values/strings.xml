@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="app_name">FiveInRow</string>
+    <string name="title_activity_main">Five In Row</string>
+    
+    <string name="PLAYER_HUMAN">Player</string>
+    <string name="PLAYER_COMPUTER">Computer</string>
+    <string name="PLAYER_A">Player A</string>
+    <string name="PLAYER_B">Player B</string>
+    
+    <string name="LABEL_TAKE_BACK">Take Back</string>
+    <string name="LABEL_QUIT">Quit</string>
+    <string name="LABEL_OK">OK</string>
+    <string name="LABEL_YES">Yes</string>
+    <string name="LABEL_NO">No</string>
+    <string name="LABEL_EXIT">Exit</string>
+    <string name="LABEL_CANCEL">Cancel</string>
+    <string name="LABEL_NEW_GAME">New Game</string>
+    <string name="LABEL_GIVE_UP">Give up</string>
+    <string name="LABEL_HINT">Hint</string>
+    <string name="LABEL_SETTING">Setting</string>
+    
+    <string name="TITLE_ABOUT">About</string>
+    <string name="TITLE_WIN">You win</string>
+    <string name="TITLE_DRAW">Draw</string>
+    <string name="TITLE_LOSE">You lose</string>
+    <string name="TITLE_RESTART">New Game</string>
+    <string name="TITLE_EXIT_CONFIRM">Exit</string>
+    <string name="TITLE_GIVE_UP"></string>
+    <string name="TITLE_SETTING">Settings</string>
+    <string name="TITLE_WIN_VS_HUMAN">win</string>
+    
+    <string name="SETTING_PLAYER_FIRST">Player First:</string>
+    <string name="SETTING_ENABLE_HINT">Enable Hint:</string>
+    <string name="SETTING_ENABLE_BAN">Enable Ban:</string>
+    <string name="SETTING_SELECT_MODE">Select Mode:</string>
+    <string name="MODE_VS_COMPUTER">VS AI</string>
+    <string name="MODE_VS_HUMAN">VS Human</string>
+    <string name="MODE_INVESTIGATION">Investigation</string>
+    
+    <string name="MSG_YOU_WIN">Congratulations! You are so smart!</string>
+    <string name="MSG_DRAW">It is a draw.</string>
+    <string name="MSG_YOU_LOSE">Sorry, you have lost the game.</string>
+    <string name="MSG_ALERT_RESTART">Are you sure you want to restart this game?</string>
+    <string name="MSG_ALERT_GIVE_UP">Are you sure you want to give up?</string>
+    <string name="MSG_ALERT_EXIT">Are you sure you want to exit?</string>
+    <string name="MSG_SETTING_SAVED">Your preference has been saved.\nIt will take effect when next new game starts.</string>
+    
+    <string name="MSG_HELP_NEW_GAME">Start new game</string>
+    <string name="MSG_HELP_UNDO">Take back last step</string>
+    <string name="MSG_HELP_HINT">Give a hint for next step.</string>
+    <string name="MSG_HELP_SETTING">Change game mode and preference</string>
+    <string name="MSG_ABOUT">This is a simple Five-In-Row Application.</string>
+    <string name="MSG_COPYRIGHT">Copyright©2012</string>
+    <string name="MSG_AUTHOR">Erich Wang</string>
+    <string name="MSG_AUTHOT_CONTRACT">erichwang1986@163.com</string>
+
+</resources>
